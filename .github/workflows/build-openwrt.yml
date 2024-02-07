@@ -32,6 +32,7 @@ env:
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
+  FILE_NAME: OpenWrt Redmi AX5 JDC
 
 jobs:
   build:
